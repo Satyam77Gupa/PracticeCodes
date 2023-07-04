@@ -1,1 +1,1 @@
-print("i AM sATYAM")
+print("I AM SATYAM GUPTA")
